@@ -1,0 +1,7 @@
+*.extension filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/TerrainTexturesPackFree/TerrainTextures/GrassUV01.png filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/TerrainTexturesPackFree/TerrainTextures/GrassUV01_N.png filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/TerrainTexturesPackFree/TerrainTextures/GrassUV02.png filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/TerrainTexturesPackFree/TerrainTextures/GrassUV02_N.png filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/Triangularity/ColorfulCity/Scenes/All[[:space:]]Buildings[[:space:]]Colors.unity filter=lfs diff=lfs merge=lfs -text
+CampusOfLegends/Assets/Asset[[:space:]]exterieur/Triangularity/ColorfulCity/Scenes/Buildings[[:space:]]Showcase.unity filter=lfs diff=lfs merge=lfs -text
