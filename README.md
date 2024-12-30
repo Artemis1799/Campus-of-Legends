@@ -8,14 +8,10 @@ Throughout the 8 semesters of your mandate, you'll have to make strategic decisi
 
 Every piece of data (salaries, budgets, etc.) is based on real, public information, for a fully immersive experience. Tips in the form of advice will guide you along your adventure, but it will be up to you to adopt an effective strategy to make the campus thrive.
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <img src="./ReadMeImage/batHack.png" alt="Building hacking event" width="500" style="border-radius: 8px; margin: 10px;">
-  
-  <img src="./ReadMeImage/batEnFeu.png" alt="Building on fire" width="500" style="border-radius: 8px; margin: 10px;">
-  
-  <img src="./ReadMeImage/gameplay.png" alt="Game Image" width="700" style="border-radius: 8px; margin: 10px;">
-
+<div align="center">
+  <img src="./ReadMeImage/batHack.png" alt="Building hacking event" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/batEnFeu.png" alt="Building on fire" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/gameplay.png" alt="Game Image" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 ## Who are we?
