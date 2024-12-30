@@ -1,73 +1,98 @@
-# DEE24-T3-C
-
 # Campus Of Legends
 
-## Qu'est-ce que "Campus Of Legends" ?
+## What is "Campus Of Legends"?
 
-**Campus Of Legends** est un jeu de simulation de RH dans un campus totalement délabré et en plein chaos. Votre mission ? Redresser, en tant que vice-président des ressources humaines, le campus universitaire de l'**UNISTRA** et en faire le nouveau **Harvard** !
+**Campus Of Legends** is a human resources management simulation game set on a chaotic university campus. Your mission? As the Vice President of Human Resources, you must turn **UNISTRA** into an attractive campus capable of competing with the best universities in the world!
 
-Tout au long de la partie, vous devrez faire de bons choix. Pour cela, vous devrez forger une équipe digne de l'élite (*ou pas*), qui dirigera le campus universitaire tout au long du jeu. Bien évidemment, cette équipe jouera un rôle crucial dans la gestion de votre budget alloué chaque semestre. De plus, tout comme dans la vraie vie, des événements aléatoires surviendront en fonction de certains facteurs (facteur aléatoire, fidélité des employés) tels que des incendies, des bagarres entre employés, le piratage du système d'information d'un bâtiment et bien d'autres...
+Throughout the 8 semesters of your mandate, you'll have to make strategic decisions to restore order, improve attractiveness, and ensure the campus's prosperity. You'll build a team that will play a crucial role in managing the allocated budget each semester. But beware: random events will spice up your experience, such as fires, internal conflicts, cyberattacks, and other unexpected challenges.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="flex: 0 0 48%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batHack.png" 
-             alt="Bonjour monsieur Gossa" 
-             style="width: 100%; height: auto;">
+Every piece of data (salaries, budgets, etc.) is based on real, public information, for a fully immersive experience. Tips in the form of advice will guide you along your adventure, but it will be up to you to adopt an effective strategy to make the campus thrive.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="width: 80%; box-sizing: border-box;">
+        <img src="./ReadMeImage/batHack.png"
+             alt="Building hacking event"
+             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
-    <div style="flex: 0 0 48%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batEnFeu.png" 
-             alt="Bâtiment en feu" 
-             style="width: 100%; height: auto;">
+    <div style="width: 80%; box-sizing: border-box;">
+        <img src="./ReadMeImage/batEnFeu.png"
+             alt="Building on fire"
+             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
-    <div style="flex: 0 0 48%; box-sizing: border-box;">
-        <img src="./ReadMeImage/empasContent.png" 
-             alt="Employés pas contents" 
-             style="width: 100%; height: auto;">
+    <div style="width: 80%; box-sizing: border-box;">
+        <img src="./ReadMeImage/empasContent.png"
+             alt="Discontent employees"
+             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
 </div>
 
-Chaque donnée (salaire, budget alloué, etc.) est basée sur des données réelles, publiques, afin de plonger le joueur dans une immersion totale. Des astuces, sous forme de tips, sont présentes afin de guider le joueur tout au long d'une partie, s'il le souhaite ou non. Il est également tenu d'appliquer sa propre stratégie afin de redresser ou non le campus universitaire.
+## Who are we?
 
-## Qui sommes-nous ?
+We are four students from the **IUT Robert Schuman** at the University of Strasbourg (**Unistra**), who are passionate about computer science. This game was developed as part of a university project to create a "serious game" on the theme of the **Vice President of Human Resources**. We mobilized the skills we'd acquired in our first year, and worked on Unity ourselves, to complete the project in just three months.
 
-Nous sommes 4 étudiants passionnés par l'informatique de l'université de Strasbourg (**Unistra**) au sein de l'**IUT Robert Schuman**. Ce jeu a pour but de valider notre semestre et nos compétences acquises tout au long de la création de ce projet en autodidacte sur Unity.
+## What can you do in *Campus Of Legends*?
 
-## Instructions d'installation
+Our management simulator puts you in the shoes of a Vice President of HR facing realistic and demanding challenges. Every decision has consequences, and your strategy will be put to the test.
 
-Bien que notre projet ait été produit à l'aide d'**Unity**, les instructions d'installation sont simples.
+Here’s what you can do:
 
-Cliquez sur "Lien de téléchargement" :<br>
-<a href="https://seafile.unistra.fr/d/1c3ebc8b5bbc42d29f3a/">Lien de téléchargement</a>
+- **Recruit employees** with diverse profiles from various professions.
+- **Organize training sessions** to improve your team's skills.
+- **Allocate bonuses** to ease conflicts and reduce the risk of resignations.
+- **Make layoffs** if necessary.
+- **Dialogue with employees** to assess their morale and expectations.
+- **Explore various campus buildings**, each dedicated to a specific management aspect (recruitment, training, crisis management).
+- **Handle crisis events**, such as incidents affecting staff or finances.
+- **Manage the budget**, which depends on the university's attractiveness.
+- **Advance through time**, semester by semester, to evaluate the impact of your decisions.
 
-(Si cela ne fonctionne pas : <link>https://seafile.unistra.fr/d/1c3ebc8b5bbc42d29f3a/</link>)
+Each action will help you understand the responsibilities and challenges of human resources management in a university context. By playing, you’ll develop skills  that can be transposed to the management of real organizations.
+
+## Installation Instructions
+
+The project was developed with **Unity** and is easy to install.
+
+### Download Link
+
+Click on this link to download the game:
+
+[**Download Link**](https://seafile.unistra.fr/d/1c3ebc8b5bbc42d29f3a/)
+
+If this link doesn't work, use this alternative: https://seafile.unistra.fr/d/1c3ebc8b5bbc42d29f3a/
 
 ### WINDOWS
 
-Une fois l'installateur téléchargé, ouvrez-le et suivez les instructions de celui-ci. S'il ne fonctionne pas correctement, vous pouvez contacter le support à cette adresse mail : 
+1. Download and open the file *CampusOfLegendsSetup.exe*.
+2. Follow the installer instructions.
 
-git-reply+dee24-t3-c-dee24-t3-c-42281-issue-@unistra.fr.
- (Au-delà de 48 heures sans nouvelles de votre part, nous considérerons ce problème comme réglé)
+**Note:** A security warning may appear during execution. This is due to the absence of a digital signature on the executable. If you have any doubts, you can run the game directly from Unity by opening the project folder.
 
+### LINUX
 
- ### LINUX
+1. Download the "Linux" folder from the link.
+2. Open the file *CampusOfLegendLinuxVersion.x86_64*.
 
- Rendez-vous sur le lien de téléchargement. Téléchargez le dossier "Linux" puis ouvrez le fichier nommé "CampusOfLegendLinuxVersion.x86_64". 
- 
- Le tour est joué !
+### MAC OS
 
-S'il ne fonctionne pas correctement, vous pouvez contacter le support à cette adresse mail : 
+1. Download the "MAC" folder from the link.
+2. Open the file *GAME.app*.
 
-git-reply+dee24-t3-c-dee24-t3-c-42281-issue-@unistra.fr.
- (Au-delà de 48 heures sans nouvelles de votre part, nous considérerons ce problème comme réglé)
+### Support
 
+If an executable doesn't work correctly, please contact support at:
 
- ### MAC OS
+**git-reply+dee24-t3-c-dee24-t3-c-42281-issue-@unistra.fr**
 
-  Rendez-vous sur le lien de téléchargement. Téléchargez le dossier "MAC" puis ouvrez le fichier nommé "GAME.app". 
+**Note:** A rare bug may cause a crash when transitioning to the next semester. We are actively working to resolve this issue.
 
-   Le tour est joué !
+If you get stuck on the game map, you can press the R key to reset your position.
 
-   S'il ne fonctionne pas correctement, vous pouvez contacter le support à cette adresse mail : 
+## Contributors
 
-git-reply+dee24-t3-c-dee24-t3-c-42281-issue-@unistra.fr.
- (Au-delà de 48 heures sans nouvelles de votre part, nous considérerons ce problème comme réglé)
+- Amine Belhaj
+- Antoine Chaumet
+- Alexandre Couton
+- Auguste Delaye
+
+---
+We hope you enjoy your experience with *Campus Of Legends*! Please let us know if you have any feedback or suggestions for improving the game.
