@@ -35,7 +35,7 @@ public class TipsMenu : MonoBehaviour
         lstTip.Add("Les employés perdent de leur esprit d'équipe au fur et à mesure du temps, veillez à la cohésion !");
         lstTip.Add("Vous pouvez perdre si votre réputation est trop basse !");
         lstTip.Add("Vous pouvez perdre si vous êtes trop dans le négatif !");
-        lstTip.Add("Seulement 6 semestres à tenir pour réussir votre carrière");
+        lstTip.Add("Seulement 8 semestres à tenir pour réussir votre carrière");
 
         // Initialiser le slider
         if (progressBar != null)

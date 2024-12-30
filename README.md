@@ -24,6 +24,11 @@ Every piece of data (salaries, budgets, etc.) is based on real, public informati
              alt="Discontent employees"
              style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
+    <div style="width: 80%; box-sizing: border-box;">
+            <img src="./ReadMeImage/gameplay.png"
+                 alt="GamePlay"
+                 style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        </div>
 </div>
 
 ## Who are we?

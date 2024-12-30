@@ -24,6 +24,11 @@ Chaque donnée (salaire, budget, etc.) s'appuie sur des informations réelles et
              alt="Employés mécontents"
              style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </div>
+    <div style="width: 80%; box-sizing: border-box;">
+        <img src="./ReadMeImage/gameplay.png"
+             alt="GamePlay"
+             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </div>
 </div>
 
 
