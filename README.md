@@ -9,8 +9,8 @@ Throughout the 8 semesters of your mandate, you'll have to make strategic decisi
 Every piece of data (salaries, budgets, etc.) is based on real, public information, for a fully immersive experience. Tips in the form of advice will guide you along your adventure, but it will be up to you to adopt an effective strategy to make the campus thrive.
 
 <p align="center">
-  <img src="./ReadMeImage/batHack.png" alt="Building hacking event" width="700" style="margin: 5px;">
-  <img src="./ReadMeImage/batEnFeu.png" alt="Building on fire" width="700" style="margin: 5px;">
+  <img src="./ReadMeImage/batHack.png" alt="Building hacking event" width="500" style="margin: 5px;">
+  <img src="./ReadMeImage/batEnFeu.png" alt="Building on fire" width="500" style="margin: 5px;">
   <img src="./ReadMeImage/gameplay.png" alt="Game Image" width="700" style="margin: 5px;">
 </p>
 
