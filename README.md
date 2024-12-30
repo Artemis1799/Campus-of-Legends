@@ -11,6 +11,7 @@ Every piece of data (salaries, budgets, etc.) is based on real, public informati
 <div align="center">
   <img src="./ReadMeImage/batHack.png" alt="Building hacking event" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="./ReadMeImage/batEnFeu.png" alt="Building on fire" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/empasContent.png" alt="Employees in conflict" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="./ReadMeImage/gameplay.png" alt="Game Image" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
