@@ -11,17 +11,18 @@ Every piece of data (salaries, budgets, etc.) is based on real, public informati
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img src="./ReadMeImage/batHack.png"
          alt="Building hacking event"
-         style="width: 70%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 70%; height: auto; margin: 0 auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="./ReadMeImage/batEnFeu.png"
          alt="Building on fire"
-         style="width: 70%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 70%; height: auto; margin: 0 auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="./ReadMeImage/empasContent.png"
          alt="Discontent employees"
-         style="width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 80%; height: auto; margin: 0 auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="./ReadMeImage/gameplay.png"
          alt="GamePlay"
-         style="width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 80%; height: auto; margin: 0 auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
+
 ## Who are we?
 
 We are four students from the **IUT Robert Schuman** at the University of Strasbourg (**Unistra**), who are passionate about computer science. This game was developed as part of a university project to create a "serious game" on the theme of the **Vice President of Human Resources**. We mobilized the skills we'd acquired in our first year, and worked on Unity ourselves, to complete the project in just three months.
