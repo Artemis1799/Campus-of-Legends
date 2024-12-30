@@ -8,27 +8,10 @@ Tout au long des 8 semestres de votre mandat, vous devrez prendre des décisions
 
 Chaque donnée (salaire, budget, etc.) s'appuie sur des informations réelles et publiques, pour une immersion totale. Des astuces sous forme de conseils vous guideront tout au long de votre aventure, mais il vous reviendra d'adopter une stratégie efficace pour faire prospérer le campus.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <div style="width: 60%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batHack.png"
-             alt="Piratage du bâtiment"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 60%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batEnFeu.png"
-             alt="Bâtiment en feu"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 80%; box-sizing: border-box;">
-        <img src="./ReadMeImage/empasContent.png"
-             alt="Employés mécontents"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 80%; box-sizing: border-box;">
-        <img src="./ReadMeImage/gameplay.png"
-             alt="GamePlay"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
+<div align="center">
+  <img src="./ReadMeImage/batHack.png" alt="Batiment hacké" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/batEnFeu.png" alt="Batiment en feu" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/gameplay.png" alt="Image du jeu" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 
