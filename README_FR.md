@@ -11,6 +11,7 @@ Chaque donnée (salaire, budget, etc.) s'appuie sur des informations réelles et
 <div align="center">
   <img src="./ReadMeImage/batHack.png" alt="Batiment hacké" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="./ReadMeImage/batEnFeu.png" alt="Batiment en feu" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="./ReadMeImage/empasContent.png" alt="Employés en conflit" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="./ReadMeImage/gameplay.png" alt="Image du jeu" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
