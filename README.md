@@ -9,28 +9,19 @@ Throughout the 8 semesters of your mandate, you'll have to make strategic decisi
 Every piece of data (salaries, budgets, etc.) is based on real, public information, for a fully immersive experience. Tips in the form of advice will guide you along your adventure, but it will be up to you to adopt an effective strategy to make the campus thrive.
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <div style="width: 60%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batHack.png"
-             alt="Building hacking event"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 60%; box-sizing: border-box;">
-        <img src="./ReadMeImage/batEnFeu.png"
-             alt="Building on fire"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 80%; box-sizing: border-box;">
-        <img src="./ReadMeImage/empasContent.png"
-             alt="Discontent employees"
-             style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </div>
-    <div style="width: 80%; box-sizing: border-box;">
-            <img src="./ReadMeImage/gameplay.png"
-                 alt="GamePlay"
-                 style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        </div>
+    <img src="./ReadMeImage/batHack.png"
+         alt="Building hacking event"
+         style="width: 70%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="./ReadMeImage/batEnFeu.png"
+         alt="Building on fire"
+         style="width: 70%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="./ReadMeImage/empasContent.png"
+         alt="Discontent employees"
+         style="width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="./ReadMeImage/gameplay.png"
+         alt="GamePlay"
+         style="width: 80%; height: auto; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
-
 ## Who are we?
 
 We are four students from the **IUT Robert Schuman** at the University of Strasbourg (**Unistra**), who are passionate about computer science. This game was developed as part of a university project to create a "serious game" on the theme of the **Vice President of Human Resources**. We mobilized the skills we'd acquired in our first year, and worked on Unity ourselves, to complete the project in just three months.
